@@ -1,6 +1,5 @@
 ### Hi there 👋
 :school: ## I'm Food Eng. and interested in programming.
-*About me...
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Android App Development
 - 👯 I’m looking to collaborate on java or Android etc.
