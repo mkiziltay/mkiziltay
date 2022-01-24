@@ -2,7 +2,7 @@
 <h3 align="center">Android-Java Software Developer</h3>
 
 - :school: ## I'm Food Eng. and interested in programming.
-- 🔭 I’m currently working on **Android Studio** and **Java**
+- 🔭 I’m currently working on **Android Studio** , **Java** and **Backend Tecnologies** 
 - 🌱 I’m currently learning Android App Development, Java Spring Framework etc.
 - 👯 I’m looking to collaborate on java or Android etc.
 - 🤔 I’m looking for help with java or Android etc.
