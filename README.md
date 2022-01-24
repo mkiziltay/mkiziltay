@@ -1,21 +1,14 @@
-### Hi there 👋
-:school: ## I'm Food Eng. and interested in programming.
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning Android App Development
+<h1 align="center">Hi 👋, I'm Mustafa</h1>
+<h3 align="center">Android-Java Software Developer</h3>
+
+- :school: ## I'm Food Eng. and interested in programming.
+- 🔭 I’m currently working on **Android Studio** and **Java**
+- 🌱 I’m currently learning Android App Development, Java Spring Framework etc.
 - 👯 I’m looking to collaborate on java or Android etc.
 - 🤔 I’m looking for help with java or Android etc.
 - 💬 Ask me about what you want you know.
 - 📫 How to reach me: linkedin.com/in/mkiziltay
-- 😄 Pronouns: ...
 - ⚡ Fun fact: sport, programming , travelling, Arduino Robotic Coding ...
-
-
-#Test
-
-<h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">Android-Java Software Developer</h3>
-
-- 🔭 I’m currently working on **Android Studio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
