@@ -5,9 +5,9 @@
 - 🔭 I’m currently working on **Android Studio** , **Java**, **Spring Framework** and **Backend Tecnologies** 
 - 🌱 I’m currently learning Android App Development, Java Spring Framework etc.
 - 👯 I’m looking to collaborate on java or Android etc.
-- 🤔 I’m looking for help with java or Android etc.
+- 🤔 I’m looking for help with java, Spring framework, API structure or Android etc.
 - 💬 Ask me about what you want you know.
-- 📫 How to reach me: linkedin.com/in/mkiziltay
+- 📫 How to reach me: linkedin.com/in/mkiziltay or social media accounts.
 - ⚡ Fun fact: sport, programming , travelling, Arduino Robotic Coding ...
 
 <h3 align="left">Connect with me:</h3>
