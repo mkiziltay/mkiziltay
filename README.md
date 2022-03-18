@@ -3,7 +3,7 @@
 
 - :school: ## I'm Food Eng. and interested in programming. 
 - 🔭 I’m currently working on **Android Studio** , **Java**, **Spring Framework** , **Flutter with Dart Lang.** and **Backend Tecnologies** 
-- 🌱 I’m currently learning Android App Development, Java Spring Framework etc.
+- 🌱 I’m currently learning Android App Development, Flutter App Development, Java Spring Framework etc.
 - 👯 I'm looking to collaborate on java or Android etc.
 - 🤔 I’m looking for help with java, Spring framework, API structure or Android etc.
 - 💬 Ask me about what you want you know.
