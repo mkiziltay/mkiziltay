@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">Android-Java Software Developer</h3>
 
-- :school: ## I'm Food Eng. and interested in programming. 
+- :school: I'm Food Eng. and interested in programming. 
 - 🔭 I’m currently working on **Android Studio**, **Spring Framework**, **Java**, **Flutter with Dart Lang.** and **Backend Tecnologies** 
 - 🌱 I’m currently learning Android App Development, Flutter App Development, Java Spring Framework etc.
 - 👯 I'm looking to collaborate on java or Android etc.
