@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">Android->Java & Flutter->Dart Software Developer</h3>
+<h3 align="center">Android->Java  &  Flutter->Dart Software Developer</h3>
 
 - :school: I'm Food Eng. and interested in programming. 
 - 🔭 I’m currently working on **Android Studio**, **Spring Framework**, **Java**, **Flutter with Dart Lang.** and **Backend Tecnologies** 
