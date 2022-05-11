@@ -12,7 +12,7 @@
 - ⚡ Fun fact: sport, programming , travelling, Arduino Robotic Coding ...
 
 <b>*Find Me Around The Web*:</b><img src="https://i.hizliresim.com/m6w6fvj.gif" height="17"> </a>
-<h3 align="left">Connect with me: <img width="100%" src="https://i.gifer.com/S7ub.gif" /></h3>
+<h3 align="left">Connect with me: <img width="100%" src="https://i.hizliresim.com/m6w6fvj.gif" /></h3>
 <p align="left">
 <a href="https://twitter.com/mustafakiziltay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafakiziltay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mkiziltay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mkiziltay" height="30" width="40" /></a>
