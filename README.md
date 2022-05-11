@@ -11,6 +11,7 @@
 - 📫 How to reach me: linkedin.com/in/mkiziltay or social media accounts.
 - ⚡ Fun fact: sport, programming , travelling, Arduino Robotic Coding ...
 
+<b>*Find Me Around The Web*:</b><img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/web.gif" height="17"> </a>
 <h3 align="left">Connect with me: <img width="100%" src="https://i.gifer.com/S7ub.gif" /></h3>
 <p align="left">
 <a href="https://twitter.com/mustafakiziltay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafakiziltay" height="30" width="40" /></a>
