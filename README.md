@@ -8,7 +8,7 @@
 - 👯 I'm looking to collaborate on java or Android etc.
 - 🤔 I’m looking for help with java, Spring framework, API structure or Android etc.
 - 💬 Ask me about what you want you know.
-- 📫 How to reach me: <a href="https://linkedin.com/in/mkiziltay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mkiziltay" height="15" width="20" /></a> or social media accounts.
+- 📫 How to reach me: <a href="https://linkedin.com/in/mkiziltay" target="blank"><img align="center" src="https://nekuda.co.il/wp-content/uploads/2020/01/pexels-photo-2060507-1-1024x314.jpg" alt="mkiziltay" height="15" width="20" /></a> or social media accounts.
 - ⚡ Fun fact: sport, programming , travelling, Arduino Robotic Coding...
 
 <b>Find Me Around The Web : </b><img src="https://i.hizliresim.com/11am68m.gif" height="25"> </a>
