@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with java, Spring framework, API structure or Android etc.
 - 💬 Ask me about what you want you know.
 - 📫 How to reach me: linkedin.com/in/mkiziltay or social media accounts.
-- ⚡ Fun fact: sport, programming , travelling, Arduino Robotic Coding ...
+- ⚡ Fun fact: sport, programming , travelling, Arduino Robotic Coding...
 
 <b>Find Me Around The Web : </b><img src="https://i.hizliresim.com/11am68m.gif" height="25"> </a>
 <p align="left">
