@@ -13,7 +13,7 @@
 
 <b>Find Me Around The Web : </b><img src="https://i.hizliresim.com/11am68m.gif" height="25"> </a>
 <p align="left">
-<a href="https://twitter.com/mustafakiziltay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafakiziltay" height="30" width="40" /></a>
+<a href="https://twitter.com/mustafakiziltay " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafakiziltay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mkiziltay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mkiziltay" height="30" width="40" /></a>
 <a href="https://instagram.com/mkiziltay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mkiziltay" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mkiziltay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mkiziltay" height="30" width="40" /></a>
