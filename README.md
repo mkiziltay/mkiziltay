@@ -21,8 +21,9 @@
  <a href="https://stackoverflow.com/users/18609129/mkiziltay" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/260/278/png-transparent-circle-forum-round-icon-stackoverflow-popular-services-brands-vol-2-icon-thumbnail.png" alt="mkiziltay" height="30" width="30" /></a>
  <a href="https://medium.com/@mkiziltay" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" alt="mkiziltay" height="30" width="30" /></a>
 </p>
-<b> Languages and Tools : </b><img src="https://i.hizliresim.com/kjqxp5w.gif" height="22"> </a>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<b>Languages and Tools : </b><img src="https://i.hizliresim.com/kjqxp5w.gif" height="22"> </a>
+<p align="left">
+ <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
  <a href="https://developers.google.com/" target="_blank" rel="noreferrer"> <img src="https://developers.google.com/site-assets/developers-logo-color.svg" alt="google-developers" width="80" height="50"/> </a>
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
